@@ -16,10 +16,10 @@ import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.stereotype.Service;
 
-import com.example.websocket.util.DateUtil;
 import com.example.websocketdemo.model.ChatMessage;
 import com.example.websocketdemo.model.User;
 import com.example.websocketdemo.model.UserMessageCount;
+import com.example.websocketdemo.util.DateUtil;
 
 
 

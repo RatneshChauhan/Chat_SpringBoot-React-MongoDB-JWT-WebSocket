@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.example.websocket.util;
+package com.example.websocketdemo.util;
 
 import java.time.Clock;
 import java.time.Instant;

@@ -1,6 +1,6 @@
 package com.example.websocketdemo.controller;
 
-import com.example.websocket.util.DateUtil;
+
 import com.example.websocketdemo.model.ChatMessage;
 import com.example.websocketdemo.model.Message;
 import com.example.websocketdemo.model.Sender;
@@ -8,6 +8,7 @@ import com.example.websocketdemo.model.User;
 import com.example.websocketdemo.model.UserMessageCount;
 import com.example.websocketdemo.repository.CustomRepoImpl;
 import com.example.websocketdemo.repository.UserRepository;
+import com.example.websocketdemo.util.DateUtil;
 
 import java.util.ArrayList;
 import java.util.List;

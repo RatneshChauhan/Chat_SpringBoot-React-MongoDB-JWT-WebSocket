@@ -8,11 +8,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 
-import com.example.websocket.util.ObjectMapperUtils;
 import com.example.websocketdemo.dto.MessageDTO;
 import com.example.websocketdemo.dto.UserDTO;
 import com.example.websocketdemo.repository.MessageRepository;
 import com.example.websocketdemo.repository.UserRepository;
+import com.example.websocketdemo.util.ObjectMapperUtils;
 
 /**
  * @author BCPTEST
